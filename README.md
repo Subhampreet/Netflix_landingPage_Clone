@@ -1,6 +1,6 @@
-# Netflix_landingPage_Clone
+# Netflix Landing Page Clone⚡
 
-![ezgif com-webp-to-png](https://user-images.githubusercontent.com/61475220/92566115-5c427a00-f299-11ea-8e95-5f18759886a5.png)
+![netflix-main](https://user-images.githubusercontent.com/61475220/97740807-ccd27e00-1b07-11eb-8b0f-98c93d3457e7.png)
 
 Netflix Landing Page Clone
 
